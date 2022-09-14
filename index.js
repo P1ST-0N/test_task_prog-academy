@@ -3,4 +3,4 @@ function sumBitcoins( bitcoinPrice, sumDollars) {
   totalSum = sumDollars / bitcoinPrice;
   return totalSum;
 }
-console.log(sumBitcoins(21000, 1000));, 1000));
+console.log(sumBitcoins(21000, 1000));
